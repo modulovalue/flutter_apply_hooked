@@ -1,0 +1,1 @@
+flutter_apply_hooked
