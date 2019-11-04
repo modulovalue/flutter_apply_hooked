@@ -17,7 +17,7 @@ dependencies:
   signal_wave:
     git:
       url: git@github.com:modulovalue/signal_wave.git
-  single_base: ^1.0.1+4
+  single_bloc_base: ^1.0.0
 
 dev_dependencies:
   extra_pedantic: ^1.1.1+3
