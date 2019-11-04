@@ -1,15 +1,15 @@
 library flutter_apply_hooked;
 
-/// The $$$ Set:
+/// The $$$ set:
 ///
 ///  $: De-waves a value in hook contexts
-///    - most common, one dollar sign
+///    - most common: one dollar sign
 ///
 ///  $$: Creates a Hook context
-///    - second most common 2 dollar signs
+///    - second to most common: 2 dollar signs
 ///
 ///  $$$: Initializes a bloc in hook contexts
-///    - least common, three dollar signs
+///    - least common: three dollar signs
 ///
 export 'src/build_applicator.dart';
 export 'src/build_bloc.dart';

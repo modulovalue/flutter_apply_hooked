@@ -1,5 +1,5 @@
 name: flutter_apply_hooked
-description: flutter_hooks extensions for flutter_apply
+description: flutter_hooks & single_bloc_base & signal_wave helpers for flutter_apply
 version: 0.1.0
 homepage: https://www.modulovalue.com
 author: Modestas Valauskas <valauskasmodestas+dartpub@gmail.com>
@@ -13,15 +13,13 @@ dependencies:
   flutter_apply:
     git:
       url: git@github.com:modulovalue/flutter_apply.git
-      ref: 9459a71a47d4b1a5d1e7f11b889cc9a248833a66
   flutter_hooks: ^0.6.1
   signal_wave:
     git:
       url: git@github.com:modulovalue/signal_wave.git
-      ref: 5524142be9a015a72b66adc7b4c6ff474cac50fc
   single_base: ^1.0.1+4
 
 dev_dependencies:
-  extra_pedantic: ^1.1.1+2
+  extra_pedantic: ^1.1.1+3
   test: ^1.5.0
   mockito: ^4.0.0
